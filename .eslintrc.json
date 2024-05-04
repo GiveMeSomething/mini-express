@@ -9,6 +9,6 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["@typescript-eslint", "eslint-config-prettier"],
+  "plugins": ["@typescript-eslint", "prettier"],
   "rules": {}
 }
